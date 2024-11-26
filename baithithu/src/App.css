@@ -1,0 +1,33 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://i.pinimg.com/originals/16/27/32/162732ba2c76d485d6418dd14ac4483b.gif);
+  background-size: cover;
+  background-position: center;
+}
+.App{
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 150px;
+  color: white;
+}
+
+header{
+  text-align: center;
+}
+
+input{
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button{
+  padding: 10px;
+  margin: 5px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+}
